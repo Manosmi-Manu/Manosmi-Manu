@@ -1,4 +1,4 @@
-Hi 👋 My name is Manosmi gundu
+Hi 👋 My name is Manosmi Gundu
 ==============================
 
 Full Stack Software Engineer
